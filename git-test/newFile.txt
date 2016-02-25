@@ -4,4 +4,4 @@ A second commit
 A third commit
 A fourth commit from github
 A fifth commit from Eclipse
-A 6th commit
+I am creating the 8th commit from Eclipse. No 6th or 7th commit would be displayed on this file?
