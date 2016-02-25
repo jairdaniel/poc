@@ -1,6 +1,10 @@
 
 public class NewClass {
 
+	public boolea returnTrue(){
+		return true;
+	}
+	
 	public void method(){
 		System.out.println("A useless method");
 	}
