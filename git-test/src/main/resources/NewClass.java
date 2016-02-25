@@ -7,6 +7,7 @@ public class NewClass {
 	
 	public void method(){
 		System.out.println("A useless method");
+		System.out.println("This is really useless");
 	}
 	
 	public void anotherMethod(){
